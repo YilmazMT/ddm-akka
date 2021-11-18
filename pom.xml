@@ -19,7 +19,12 @@
 		<jcommander.version>1.81</jcommander.version>
 		<fastutil.version>8.5.5</fastutil.version>
 		<opencsv.version>5.5.2</opencsv.version>
+		<maven.compiler.source>1.8</maven.compiler.source>
+  		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
+
+	
+
 
 	<dependencies>
 		<dependency>
